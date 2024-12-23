@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Villota</h1>
-<h3 align="center">A passionate developer with a flair for creating dynamic web applications. I love transforming ideas into reality through code and design. Let's build something amazing together!</h3>
+<h3 align="center">I enjoy working with modern technologies to create seamless user experiences. Currently, I'm focusing on web development and expanding my skills in various programming languages and frameworks.</h3>
 
 - 👨‍💻 All of my projects are available at [https://kevin-villota.netlify.app/](https://kevin-villota.netlify.app/)
 
